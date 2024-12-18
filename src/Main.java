@@ -39,7 +39,7 @@ public class Main {
         a.add(5);
         a.add(18);
         a.add(9);
-        a.add(1);
+        a.add(2);
         System.out.println(a.toString());
         System.out.println(a.contains(12));
         System.out.println(a.contains(13));

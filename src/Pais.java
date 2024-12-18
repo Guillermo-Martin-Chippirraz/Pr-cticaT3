@@ -101,7 +101,7 @@ public class Pais {
 
     public boolean compruebaHabitantes(int n){
         numero_de_habitantes = n;
-        if(numero_de_habitantes > 100000){
+        if(numero_de_habitantes > 1000000){
             return true;
         }
         return false;
